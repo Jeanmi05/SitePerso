@@ -3,8 +3,8 @@ baseURL: https://jeanmi05.github.io/SitePerso/
 #baseURL: https://soft-kleicha-17f18b.netlify.app
 languageCode: en-us 
 title: Acme Corporation 
-theme: Eclectic
-#theme: Universal 
+#theme: Eclectic
+theme: Universal
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
