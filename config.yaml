@@ -1,4 +1,5 @@
-baseURL: http://example.org/
+#baseURL: http://example.org/
+baseURL: https://jeanmi05.github.io/SitePerso/
 languageCode: en-us 
 title: Acme Corporation 
 theme: Eclectic 
