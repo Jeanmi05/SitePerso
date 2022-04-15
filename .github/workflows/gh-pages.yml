@@ -21,7 +21,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL=https://jeanmi05.github.io/SitePerso/
+        run: hugo --minify --baseURL=https://soft-kleicha-17f18b.netlify.app
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
