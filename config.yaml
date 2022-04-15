@@ -44,7 +44,7 @@ params:
     recentCount: 7
   - title: Contact Us
     contact: true
-   style: blue
+  style: blue
   logo: /image/logo.png
   logo_small: /image/logo.png
   about_us:  >
