@@ -4,7 +4,6 @@ baseURL: https://jeanmi05.github.io/SitePerso/
 languageCode: en-us 
 title: Acme Corporation 
 theme: Eclectic
-enableEmoji: true
 #theme: Universal
 author: 
   facebook: "https://facebook.com/example" 
@@ -47,10 +46,10 @@ params:
     contact: true
 
 markup:
- goldmark:
-  renderer:
-   unsafe: true
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: true
+enableEmoji: true
 
-markup:
- highlight:
-  lineNos: true
