@@ -45,5 +45,9 @@ params:
   - title: Contact Us
     contact: true
 
+markup:
+ goldmark:
+  renderer:
+   unsafe: true
 
  
