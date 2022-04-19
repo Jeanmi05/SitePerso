@@ -21,8 +21,6 @@ We provide :smile: to hundreds of happy customers.
 Manufacturing
 --------------
 
-Test
-
 
 At Acme Corporation, we take pride in what we create. Our manufacturing process goes through **3 different** stages of fine workmanship to give you the best possible shapes.
 
