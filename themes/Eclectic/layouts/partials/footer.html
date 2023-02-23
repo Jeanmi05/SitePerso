@@ -47,7 +47,7 @@
             {{ with $.Site.Author.email }}
             <li>
                 <a target="_blank" href="mailto:{{ . }}" rel="noopener">
- {{ $icon := resources.Get "image/line-awesome/fa-envelope.svg" | resources.Minify }} {{ replace $icon.Content "<svg " "<svg width=\"30px\" "  | safeHTML }}
+                    {{ $icon := resources.Get "image/line-awesome/fa-envelope.svg" | resources.Minify }} {{ replace $icon.Content "<svg " "<svg width=\"30px\" "  | safeHTML }}
                     {{$middle := replaceRE "^.*@" "" .}}
                     <span>{{replaceRE "@.*$" "" .}} [at] {{ replaceRE "\\..*" "" $middle }} [dot] {{ replaceRE "^.*\\." "" . }}</span>
                 </a>

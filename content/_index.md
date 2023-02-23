@@ -44,7 +44,7 @@ Acme Corporation&trade; is the _world’s leading manufacturer of digital shapes
 
 ![contact us](contact.jpg)
 
-Personalized especially for you
+Personalized especially for Me
 -------------------------------
 
 We convert dreams into designs. Our artists are one of a kind. We provide full support for customizing your designs with multiple contact sessions to understand your problems and get a satisfying result.
